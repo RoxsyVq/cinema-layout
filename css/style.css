@@ -1,0 +1,145 @@
+.searche-box input{
+  padding: 4px;
+}
+.searche-box .fa-search{
+  margin-left: -25px;
+}
+header span{
+  position: relative;
+top:  2px;
+  margin-left: 10px;
+}
+.cartelera img{
+  width: 100%
+}
+.hero .banner{
+  background:#333 url(../img/banner.jpg) no-repeat ;
+  background-size: contain;
+  padding: 100px 50px;
+width: 100%;
+}
+.hero .banner img{
+  position: absolute;
+  left: 290px;
+  top:270px;
+}
+.movi-info{
+  padding top:20px;
+  padding-bottom: 20px;
+color:#fff;
+
+}
+.hero .banner h1{
+  position: absolute;
+  top:100px;
+  color:#fff;
+  font-size:30px;
+}
+.banner hr{
+  position: relative;
+  top:-37px;
+}
+.movi-info span{
+border: 1px solid #41911f;
+border-radius: 5px;
+color: #41911f;
+padding: 5px 5px;
+margin: 0 10px 20px 0 ;
+}
+ .movi-info a{
+   border-radius: 5px;
+   background: #f1d519;
+   padding: 10px 15px;
+   border: 0px;
+   margin-bottom: 5px;
+   color: #fff;
+
+ }
+
+ .movi-info input{
+   border-radius: 5px;
+   background: #f1d519;
+   padding: 10px 15px;
+   border: 0px;
+   margin-bottom: 5px;
+   color: #fff;
+   margin-top: 15px;
+
+ }
+ .movi-info button{
+   border-radius: 5px;
+   background:#f1b312;
+   padding: 10px 15px;
+   border: 0px;
+   width: 187px;
+   color: #fff;
+   margin-top: 15px;
+
+
+ }
+ table{
+   margin: 10px 0;
+ }
+table td{
+  padding-left: 30px;
+
+}
+.estrenos{
+  background:#f2d71e;
+
+}
+.estrenos img{
+  width: 100%;
+  height: 250px;
+  padding: 30px 5px;
+}
+.contenido{
+  padding: 50px 1px;
+  color: #93908b;
+}
+.contenido hr{
+  margin: 20px 0;
+
+}
+.contenido button{
+  border-radius: 5px;
+  background:#f1b312;
+  padding: 10px 15px;
+  border: 0px;
+  width: 130px;
+  margin: 20px 1px;
+  height: 50px;
+  color: #fff;
+}
+.contenido button i{
+color: #fff;
+}
+.contenido H3{
+  color: #edc01f;
+}
+.
+.contenido h1{
+  color:#adb0b9;
+
+}
+.contenido h1 span{
+font-size: 40px;
+color: black;
+margin: 15px 1px;
+}
+.cartelera img{
+  height: 340px;
+
+}
+.cartelera {
+  padding-bottom: 20px;
+}
+
+footer{
+  background: #cad4ce;
+    color:#6b6f71;
+    padding-top: 25px;
+
+}
+footer .copy{margin: 15px 0px;
+}
